@@ -1,2 +1,4 @@
 # Customer-Segmentation-Recommendation
-Customer Segmentation and Recommendation
+
+Final Project - Customer Segmentation and Recommendation System
+
