@@ -73,23 +73,23 @@ After successfully installing Python, install the following libraries:
 
 
 Package	Version
-matplotlib	3.1.2
-missingno	0.4.2
-numpy	1.18.1
-pandas	1.0.0
-sklearn	0.0
-tensorflow	1.15
-keras	2.3.0
-seaborn	0.10.0
-flask	1.1.1
-flask-Cors	3.0.8
+matplotlib
+missingno
+numpy
+pandas
+sklearn
+tensorflow
+keras
+seaborn
+flask
+flask-Cors
 
 Installation Instructions:
 Open the command prompt as an administrator and use the command pip install <library-name> to install each library.
 
 Project Setup
 
-After installing the required libraries, navigate to the "DBS-Segmentation" folder where your project is located. Open the folder and run the "server.py" file. Running this file will start the project server.
+After installing the required libraries, navigate to the "Customer-Segmentation-Recommendation" folder where your project is located. Open the folder and run the "server.py" file. Running this file will start the project server.
 
 Frontend Setup
 
